@@ -1,0 +1,7 @@
+Architecture: iphoneos-arm
+Name: Isla
+Package: com.reservations.isla
+Version: 1.0
+Maintainer: Kha Nguyen <kha.vng@gmail.com>
+Description: A clean LockHTML widget with numerous color theming options.
+Section: Themes
