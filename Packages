@@ -1,0 +1,13 @@
+Package: com.reservations.isla
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kha Nguyen <kha.vng@gmail.com>
+Filename: ./debs/com.reservations.isla_1.0_iphoneos-arm.deb
+Size: 83442
+MD5sum: d9a289c48ba140338a3484f3eb46f92c
+SHA1: 16004fb9b506e8825bf9e1365672d17a6160e447
+SHA256: 1ac7b1bac20f922aa8875678ce9640af18d7d459372646353e3caf4280a1eca4
+Section: Themes
+Description: A clean LockHTML widget with numerous color theming options.
+Name: Isla
+
